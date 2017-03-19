@@ -1,0 +1,320 @@
+State,State Code,Diabetes,Diabetes Code,Tobacco Use,Tobacco Use Code,Births
+Alabama,1,Yes,1,Yes,1,293
+Alabama,1,Yes,1,No,2,2817
+Alabama,1,No,2,Yes,1,5877
+Alabama,1,No,2,No,2,50396
+Alabama,1,No,2,Not Stated,9,249
+Alabama,1,Not Stated,9,No,2,11
+Alaska,2,Yes,1,Yes,1,161
+Alaska,2,Yes,1,No,2,864
+Alaska,2,Yes,1,Not Stated,9,43
+Alaska,2,No,2,Yes,1,1176
+Alaska,2,No,2,No,2,8530
+Alaska,2,No,2,Not Stated,9,392
+Alaska,2,Not Stated,9,Yes,1,20
+Alaska,2,Not Stated,9,No,2,87
+Arizona,4,Yes,1,Yes,1,342
+Arizona,4,Yes,1,No,2,6871
+Arizona,4,Yes,1,Not Stated,9,11
+Arizona,4,No,2,Yes,1,4142
+Arizona,4,No,2,No,2,73907
+Arizona,4,No,2,Not Stated,9,78
+Arkansas,5,Yes,1,Yes,1,293
+Arkansas,5,Yes,1,No,2,1772
+Arkansas,5,Yes,1,Not Stated,9,23
+Arkansas,5,No,2,Yes,1,5300
+Arkansas,5,No,2,No,2,31050
+Arkansas,5,No,2,Not Stated,9,447
+California,6,Yes,1,Yes,1,522
+California,6,Yes,1,No,2,30461
+California,6,Yes,1,Not Stated,9,179
+California,6,No,2,Yes,1,7875
+California,6,No,2,No,2,450007
+California,6,No,2,Not Stated,9,2703
+Colorado,8,Yes,1,Yes,1,188
+Colorado,8,Yes,1,No,2,3015
+Colorado,8,Yes,1,Not Stated,9,14
+Colorado,8,No,2,Yes,1,4030
+Colorado,8,No,2,No,2,59130
+Colorado,8,No,2,Not Stated,9,197
+Connecticut,9,Yes,1,Not Reported,10,2596
+Connecticut,9,No,2,Not Reported,10,33137
+Connecticut,9,Not Stated,9,Not Reported,10,13
+Delaware,10,Yes,1,Yes,1,59
+Delaware,10,Yes,1,No,2,851
+Delaware,10,No,2,Yes,1,1053
+Delaware,10,No,2,No,2,9193
+Delaware,10,No,2,Not Stated,9,10
+District of Columbia,11,Yes,1,Yes,1,13
+District of Columbia,11,Yes,1,No,2,364
+District of Columbia,11,No,2,Yes,1,230
+District of Columbia,11,No,2,No,2,8812
+District of Columbia,11,No,2,Not Stated,9,153
+Florida,12,Yes,1,Yes,1,607
+Florida,12,Yes,1,No,2,10706
+Florida,12,Yes,1,Not Stated,9,63
+Florida,12,No,2,Yes,1,12311
+Florida,12,No,2,No,2,199286
+Florida,12,No,2,Not Stated,9,952
+Florida,12,Not Stated,9,Yes,1,52
+Florida,12,Not Stated,9,No,2,269
+Florida,12,Not Stated,9,Not Stated,9,23
+Georgia,13,Yes,1,Yes,1,323
+Georgia,13,Yes,1,No,2,5845
+Georgia,13,Yes,1,Not Stated,9,26
+Georgia,13,No,2,Yes,1,7080
+Georgia,13,No,2,No,2,116438
+Georgia,13,No,2,Not Stated,9,879
+Georgia,13,Not Stated,9,Yes,1,49
+Georgia,13,Not Stated,9,No,2,599
+Georgia,13,Not Stated,9,Not Stated,9,165
+Hawaii,15,Yes,1,Yes,1,70
+Hawaii,15,Yes,1,No,2,1400
+Hawaii,15,Yes,1,Not Stated,9,176
+Hawaii,15,No,2,Yes,1,599
+Hawaii,15,No,2,No,2,12474
+Hawaii,15,No,2,Not Stated,9,3701
+Idaho,16,Yes,1,Yes,1,150
+Idaho,16,Yes,1,No,2,1206
+Idaho,16,No,2,Yes,1,2017
+Idaho,16,No,2,No,2,19348
+Idaho,16,No,2,Not Stated,9,86
+Illinois,17,Yes,1,Yes,1,714
+Illinois,17,Yes,1,No,2,11016
+Illinois,17,Yes,1,Not Stated,9,46
+Illinois,17,No,2,Yes,1,9628
+Illinois,17,No,2,No,2,136015
+Illinois,17,No,2,Not Stated,9,519
+Illinois,17,Not Stated,9,Yes,1,13
+Illinois,17,Not Stated,9,No,2,148
+Illinois,17,Not Stated,9,Not Stated,9,17
+Indiana,18,Yes,1,Yes,1,758
+Indiana,18,Yes,1,No,2,4628
+Indiana,18,No,2,Yes,1,11256
+Indiana,18,No,2,No,2,67366
+Indiana,18,No,2,Not Stated,9,29
+Iowa,19,Yes,1,Yes,1,448
+Iowa,19,Yes,1,No,2,2788
+Iowa,19,No,2,Yes,1,4968
+Iowa,19,No,2,No,2,31258
+Iowa,19,No,2,Not Stated,9,17
+Kansas,20,Yes,1,Yes,1,292
+Kansas,20,Yes,1,No,2,2132
+Kansas,20,No,2,Yes,1,4006
+Kansas,20,No,2,No,2,32653
+Kansas,20,No,2,Not Stated,9,69
+Kentucky,21,Yes,1,Yes,1,654
+Kentucky,21,Yes,1,No,2,2853
+Kentucky,21,No,2,Yes,1,10207
+Kentucky,21,No,2,No,2,41979
+Kentucky,21,No,2,Not Stated,9,110
+Kentucky,21,Not Stated,9,Yes,1,54
+Kentucky,21,Not Stated,9,No,2,92
+Kentucky,21,Not Stated,9,Not Stated,9,13
+Louisiana,22,Yes,1,Yes,1,248
+Louisiana,22,Yes,1,No,2,3665
+Louisiana,22,Yes,1,Not Stated,9,62
+Louisiana,22,No,2,Yes,1,4165
+Louisiana,22,No,2,No,2,55446
+Louisiana,22,No,2,Not Stated,9,1104
+Maine,23,Yes,1,Yes,1,128
+Maine,23,Yes,1,No,2,706
+Maine,23,No,2,Yes,1,1825
+Maine,23,No,2,No,2,9899
+Maine,23,No,2,Not Stated,9,19
+Maine,23,Not Stated,9,No,2,24
+Maryland,24,Yes,1,Yes,1,317
+Maryland,24,Yes,1,No,2,5238
+Maryland,24,Yes,1,Not Stated,9,20
+Maryland,24,No,2,Yes,1,4441
+Maryland,24,No,2,No,2,63117
+Maryland,24,No,2,Not Stated,9,480
+Massachusetts,25,Yes,1,Yes,1,277
+Massachusetts,25,Yes,1,No,2,4600
+Massachusetts,25,No,2,Yes,1,3775
+Massachusetts,25,No,2,No,2,62650
+Massachusetts,25,No,2,Not Stated,9,105
+Massachusetts,25,Not Stated,9,No,2,76
+Michigan,26,Yes,1,Yes,1,790
+Michigan,26,Yes,1,No,2,5822
+Michigan,26,Yes,1,Not Stated,9,75
+Michigan,26,No,2,Yes,1,13012
+Michigan,26,No,2,No,2,92280
+Michigan,26,No,2,Not Stated,9,1000
+Michigan,26,Not Stated,9,Yes,1,57
+Michigan,26,Not Stated,9,No,2,264
+Michigan,26,Not Stated,9,Not Stated,9,12
+Minnesota,27,Yes,1,Yes,1,478
+Minnesota,27,Yes,1,No,2,4559
+Minnesota,27,Yes,1,Not Stated,9,31
+Minnesota,27,No,2,Yes,1,6006
+Minnesota,27,No,2,No,2,58134
+Minnesota,27,No,2,Not Stated,9,518
+Minnesota,27,Not Stated,9,Yes,1,10
+Minnesota,27,Not Stated,9,No,2,88
+Minnesota,27,Not Stated,9,Not Stated,9,10
+Mississippi,28,Yes,1,Yes,1,181
+Mississippi,28,Yes,1,No,2,1517
+Mississippi,28,No,2,Yes,1,3731
+Mississippi,28,No,2,No,2,32945
+Mississippi,28,No,2,Not Stated,9,11
+Missouri,29,Yes,1,Yes,1,710
+Missouri,29,Yes,1,No,2,4000
+Missouri,29,Yes,1,Not Stated,9,38
+Missouri,29,No,2,Yes,1,11100
+Missouri,29,No,2,No,2,58611
+Missouri,29,No,2,Not Stated,9,601
+Montana,30,Yes,1,Yes,1,101
+Montana,30,Yes,1,No,2,591
+Montana,30,No,2,Yes,1,1889
+Montana,30,No,2,No,2,9932
+Montana,30,No,2,Not Stated,9,55
+Nebraska,31,Yes,1,Yes,1,196
+Nebraska,31,Yes,1,No,2,1554
+Nebraska,31,No,2,Yes,1,2485
+Nebraska,31,No,2,No,2,22371
+Nebraska,31,No,2,Not Stated,9,19
+Nebraska,31,Not Stated,9,Yes,1,11
+Nebraska,31,Not Stated,9,No,2,41
+Nevada,32,Yes,1,Yes,1,90
+Nevada,32,Yes,1,No,2,2413
+Nevada,32,Yes,1,Not Stated,9,21
+Nevada,32,No,2,Yes,1,1636
+Nevada,32,No,2,No,2,31826
+Nevada,32,No,2,Not Stated,9,312
+New Hampshire,33,Yes,1,Yes,1,76
+New Hampshire,33,Yes,1,No,2,670
+New Hampshire,33,Yes,1,Not Stated,9,10
+New Hampshire,33,No,2,Yes,1,1422
+New Hampshire,33,No,2,No,2,9849
+New Hampshire,33,No,2,Not Stated,9,212
+New Hampshire,33,Not Stated,9,Yes,1,32
+New Hampshire,33,Not Stated,9,No,2,145
+New Hampshire,33,Not Stated,9,Not Stated,9,17
+New Jersey,34,Yes,1,Not Reported,10,7894
+New Jersey,34,No,2,Not Reported,10,95171
+New Jersey,34,Not Stated,9,Not Reported,10,62
+New Mexico,35,Yes,1,Yes,1,83
+New Mexico,35,Yes,1,No,2,1586
+New Mexico,35,Yes,1,Not Stated,9,11
+New Mexico,35,No,2,Yes,1,1605
+New Mexico,35,No,2,No,2,22253
+New Mexico,35,No,2,Not Stated,9,278
+New York,36,Yes,1,Yes,1,853
+New York,36,Yes,1,No,2,16962
+New York,36,Yes,1,Not Stated,9,132
+New York,36,No,2,Yes,1,10886
+New York,36,No,2,No,2,205440
+New York,36,No,2,Not Stated,9,2532
+New York,36,Not Stated,9,No,2,469
+North Carolina,37,Yes,1,Yes,1,745
+North Carolina,37,Yes,1,No,2,6785
+North Carolina,37,No,2,Yes,1,10555
+North Carolina,37,No,2,No,2,102679
+North Carolina,37,No,2,Not Stated,9,67
+North Dakota,38,Yes,1,Yes,1,99
+North Dakota,38,Yes,1,No,2,627
+North Dakota,38,No,2,Yes,1,1521
+North Dakota,38,No,2,No,2,9040
+North Dakota,38,No,2,Not Stated,9,25
+Ohio,39,Yes,1,Yes,1,1554
+Ohio,39,Yes,1,No,2,9620
+Ohio,39,Yes,1,Not Stated,9,36
+Ohio,39,No,2,Yes,1,19594
+Ohio,39,No,2,No,2,108025
+Ohio,39,No,2,Not Stated,9,427
+Oklahoma,40,Yes,1,Yes,1,307
+Oklahoma,40,Yes,1,No,2,2473
+Oklahoma,40,No,2,Yes,1,6158
+Oklahoma,40,No,2,No,2,44133
+Oklahoma,40,No,2,Not Stated,9,49
+Oregon,41,Yes,1,Yes,1,330
+Oregon,41,Yes,1,No,2,3683
+Oregon,41,Yes,1,Not Stated,9,16
+Oregon,41,No,2,Yes,1,4187
+Oregon,41,No,2,No,2,37289
+Oregon,41,No,2,Not Stated,9,149
+Pennsylvania,42,Yes,1,Yes,1,954
+Pennsylvania,42,Yes,1,No,2,7514
+Pennsylvania,42,Yes,1,Not Stated,9,173
+Pennsylvania,42,No,2,Yes,1,16341
+Pennsylvania,42,No,2,No,2,113607
+Pennsylvania,42,No,2,Not Stated,9,2448
+Pennsylvania,42,Not Stated,9,No,2,10
+Rhode Island,44,Yes,1,Yes,1,69
+Rhode Island,44,Yes,1,No,2,772
+Rhode Island,44,Yes,1,Not Stated,9,27
+Rhode Island,44,No,2,Yes,1,730
+Rhode Island,44,No,2,No,2,9068
+Rhode Island,44,No,2,Not Stated,9,314
+South Carolina,45,Yes,1,Yes,1,365
+South Carolina,45,Yes,1,No,2,3966
+South Carolina,45,No,2,Yes,1,5329
+South Carolina,45,No,2,No,2,48429
+South Carolina,45,No,2,Not Stated,9,39
+South Dakota,46,Yes,1,Yes,1,152
+South Dakota,46,Yes,1,No,2,914
+South Dakota,46,No,2,Yes,1,1552
+South Dakota,46,No,2,No,2,9638
+South Dakota,46,No,2,Not Stated,9,52
+South Dakota,46,Not Stated,9,Yes,1,10
+South Dakota,46,Not Stated,9,No,2,13
+Tennessee,47,Yes,1,Yes,1,798
+Tennessee,47,Yes,1,No,2,4781
+Tennessee,47,Yes,1,Not Stated,9,70
+Tennessee,47,No,2,Yes,1,10777
+Tennessee,47,No,2,No,2,64594
+Tennessee,47,No,2,Not Stated,9,662
+Texas,48,Yes,1,Yes,1,679
+Texas,48,Yes,1,No,2,21506
+Texas,48,No,2,Yes,1,13842
+Texas,48,No,2,No,2,367489
+Texas,48,No,2,Not Stated,9,93
+Utah,49,Yes,1,Yes,1,111
+Utah,49,Yes,1,No,2,3202
+Utah,49,Yes,1,Not Stated,9,13
+Utah,49,No,2,Yes,1,1653
+Utah,49,No,2,No,2,45643
+Utah,49,No,2,Not Stated,9,156
+Vermont,50,Yes,1,Yes,1,60
+Vermont,50,Yes,1,No,2,219
+Vermont,50,No,2,Yes,1,904
+Vermont,50,No,2,No,2,4641
+Vermont,50,No,2,Not Stated,9,69
+Virginia,51,Yes,1,Yes,1,370
+Virginia,51,Yes,1,No,2,5542
+Virginia,51,Yes,1,Not Stated,9,353
+Virginia,51,No,2,Yes,1,5797
+Virginia,51,No,2,No,2,79438
+Virginia,51,No,2,Not Stated,9,11799
+Washington,53,Yes,1,Yes,1,572
+Washington,53,Yes,1,No,2,7419
+Washington,53,Yes,1,Not Stated,9,51
+Washington,53,No,2,Yes,1,5792
+Washington,53,No,2,No,2,74338
+Washington,53,No,2,Not Stated,9,717
+Washington,53,Not Stated,9,Yes,1,27
+Washington,53,Not Stated,9,No,2,60
+Washington,53,Not Stated,9,Not Stated,9,14
+West Virginia,54,Yes,1,Yes,1,339
+West Virginia,54,Yes,1,No,2,1232
+West Virginia,54,Yes,1,Not Stated,9,30
+West Virginia,54,No,2,Yes,1,4537
+West Virginia,54,No,2,No,2,13291
+West Virginia,54,No,2,Not Stated,9,302
+West Virginia,54,Not Stated,9,Yes,1,26
+West Virginia,54,Not Stated,9,No,2,44
+Wisconsin,55,Yes,1,Yes,1,582
+Wisconsin,55,Yes,1,No,2,4375
+Wisconsin,55,Yes,1,Not Stated,9,25
+Wisconsin,55,No,2,Yes,1,7382
+Wisconsin,55,No,2,No,2,54220
+Wisconsin,55,No,2,Not Stated,9,314
+Wisconsin,55,Not Stated,9,Yes,1,35
+Wisconsin,55,Not Stated,9,No,2,101
+Wyoming,56,Yes,1,Yes,1,42
+Wyoming,56,Yes,1,No,2,287
+Wyoming,56,Yes,1,Not Stated,9,13
+Wyoming,56,No,2,Yes,1,1105
+Wyoming,56,No,2,No,2,6105
+Wyoming,56,No,2,Not Stated,9,212
